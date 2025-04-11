@@ -1,6 +1,1 @@
-- I’m Gregory Toniolo
-- I’m interested in Physics simulations and game custom engines with 3d graphics
-- I’m currently learning C++ (just started)
-- know a little bit of C#
-- if you need to contact me for a project idea or help email me at gregorytoniolo96@gmail.com (no spam else you will be blocked)
-- Have a wonderful day and some good debugging :) !!!
+
